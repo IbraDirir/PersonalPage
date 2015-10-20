@@ -29,6 +29,10 @@ HEADING
 }
 h1{
 font-family: 'Changa One', sans-serif;
+margin: 0;
+font-size: 1.75 em;
+font-weight: normal;
+line-height: 0.8e;
 }
 
 
