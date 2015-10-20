@@ -97,7 +97,7 @@ color: #ccc;
 }
 
 /********************************
-PAGE PORTFOLIO
+PAGE : PORTFOLIO
 *********************************/
 #gallery{
     margin:0;
@@ -120,6 +120,30 @@ font-size: 0.75em;
 color:#bdc37;
 
 }
+
+
+
+/********************************
+PAGE : ABOUT
+*********************************/
+.profile-picture {
+    display: block;
+    max-width: 150;
+    margin: 0 auto 30px;
+    border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /********************************
 COLORS
 *********************************/
@@ -138,9 +162,6 @@ a {
 
     color:#6ab47b;
 }
-
-
-
 
 /* color for a nav link */
 
