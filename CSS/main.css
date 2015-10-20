@@ -18,7 +18,9 @@ body {background-color: #fff;
     color: #999;
 }
 
+bod{font-family: 'Open Sans', sans-serif;
 
+}
 
 /********************************
 HEADING
@@ -35,6 +37,26 @@ font-weight: normal;
 line-height: 0.8e;
 }
 
+h2{
+font-size: 0.75em;
+margin: -5 0 0;
+font-weight: normal;
+
+}
+
+/********************************
+NAVIGATION
+*********************************/
+
+nav {text-align: center;
+    padding: 10px 0;
+    margin: 20 0;
+}
+
+/********************************
+FOOOTER
+*********************************/
+
 
 /********************************
 COLORS
@@ -43,12 +65,12 @@ COLORS
 /* logo text */
 
 header {
-    background: #6ab47b;
+background: #6ab47b;
 border-color : #599a68;
 }
 h1,h2 {
     color:#fff;
-}
+}}
 
 a {
 
