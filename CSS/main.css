@@ -1,3 +1,6 @@
+/*
+DESIGNING FOR MOBILE FIRST
+*/
 /********************************
 GENERAL
 *********************************/
@@ -5,6 +8,10 @@ a{
 text-decoration: none;
 }
 
+img {
+    max-width: 100%;
+
+}
 
 #wrapper{
     max-width: 940px;
@@ -62,6 +69,23 @@ text-align: center;
 padding-top: 50px;
 color: #ccc;
 }
+
+
+/********************************
+PAGE PORTFOLIO
+*********************************/
+#gallery{
+    margin:0;
+    padding: 0;
+    list-style: none;
+}
+gallery li {
+    float:left;
+    width:45%;
+    margin:2.5%;
+    background-color:#f5f5f5;
+    color:#bdc3c7;
+}
 /********************************
 COLORS
 *********************************/
@@ -74,7 +98,7 @@ border-color : #599a68;
 }
 h1,h2 {
     color:#fff;
-}}
+}
 
 a {
 
