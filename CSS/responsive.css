@@ -23,3 +23,16 @@ PAGE: PORTFOLIO
 #gallery li img {
     height: 200px;
 }
+#gallery li:nth-child(4n) {
+    clear: left;
+
+}
+
+
+/********************************
+PAGE: ABOUT
+*********************************/
+.profile-picture{
+    float: left;
+    margin: 0 5% 20 0;
+}
