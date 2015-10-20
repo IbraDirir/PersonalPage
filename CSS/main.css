@@ -56,8 +56,12 @@ nav {text-align: center;
 /********************************
 FOOOTER
 *********************************/
-
-
+footer {
+font-size: 0.75em;
+text-align: center;
+padding-top: 50px;
+color: #ccc;
+}
 /********************************
 COLORS
 *********************************/
